@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<dimen name="image_with">185dp</dimen>
+
+	<dimen name="px_15">15px</dimen>
+	<dimen name="px_40">40px</dimen>
+	<dimen name="px_50">100px</dimen>
+	<dimen name="px_100">100px</dimen>
+	<dimen name="px_100_">120px</dimen>
+	<dimen name="px_300">300px</dimen>
+	<dimen name="px_330">330px</dimen>
+	<dimen name="px_350">350px</dimen>
+	<dimen name="px_380">380px</dimen>
+	<dimen name="px_400">400px</dimen>
+	<dimen name="px_420">420px</dimen>
+	<!--<dimen name="txt_height_data_network">500px</dimen>
+	<dimen name="txt_height_data_Users_top_10">550px</dimen>
+	<dimen name="txt_height_data_Users_bottom_10">600px</dimen>
+	<dimen name="txt_height_data_You_a_week_ago">650px</dimen>
+	<dimen name="txt_height_data_You_a_month_ago">700px</dimen>-->
+	<dimen name="top_maring_sp">35sp</dimen>
+	<dimen name="top_maring">105px</dimen>
+	<dimen name="px_200">10dp</dimen>
+	<dimen name="px_you">100px</dimen>
+	<dimen name="px_network">100px</dimen>
+	<dimen name="top">15sp</dimen>
+	<dimen name="bootm">15sp</dimen>
+	<dimen name="you">26sp</dimen>
+	<dimen name="you_title_small">20sp</dimen>
+	<dimen name="dp_0">0dp</dimen>
+	<dimen name="dp_1">1dp</dimen>
+	<dimen name="dp_view">1.5dp</dimen>
+	<dimen name="dp_10">10dp</dimen>
+	<dimen name="dp_100">100dp</dimen>
+	<dimen name="dp_95">95dp</dimen>
+	<dimen name="dp_130">130dp</dimen>
+	<dimen name="dp_104">104dp</dimen>
+	<dimen name="dp_105">105dp</dimen>
+	<dimen name="dp_106">106dp</dimen>
+	<dimen name="dp_107">107dp</dimen>
+	<dimen name="dp_30">30dp</dimen>
+	<dimen name="dp_40">40dp</dimen>
+	<dimen name="dp_50">50dp</dimen>
+	<dimen name="dp_8">8dp</dimen>
+	<dimen name="dp_2">2dp</dimen>
+	<dimen name="dp_4">4dp</dimen>
+	<dimen name="right_left_view_marign">-4dp</dimen>
+
+
+
+</resources>
